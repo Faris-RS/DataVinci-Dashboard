@@ -3,7 +3,6 @@ import React from "react";
 export default function Scorecard() {
   return (
     <div className="flex flex-wrap items-center">
-        
       <div className="flex-shrink-0 m-6 relative overflow-hidden bg-orange-500 rounded-lg max-w-xs shadow-lg">
         <svg
           className="absolute bottom-0 left-0 mb-8"
@@ -139,7 +138,6 @@ export default function Scorecard() {
           </div>
         </div>
       </div>
-
 
       <div className="flex-shrink-0 m-6 w-48 relative overflow-hidden bg-purple-500 rounded-lg max-w-xs shadow-lg">
         <svg
