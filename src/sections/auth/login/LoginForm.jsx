@@ -24,11 +24,12 @@ export default function LoginForm() {
   return (
     <>
       <Stack spacing={3}>
-        <TextField name="email" label="Email address" />
+        <TextField name="email" label="Email address" value="faris@test.com" />
 
         <TextField
           name="password"
           label="Password"
+          value="password"
           type={showPassword ? "text" : "password"}
           InputProps={{
             endAdornment: (

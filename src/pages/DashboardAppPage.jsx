@@ -100,14 +100,9 @@ export default function DashboardAppPage() {
 
           <Grid item xs={12} md={6} lg={4} className="Graph">
             <AppCurrentSubject
-              title="Monthly Sales"
+              title="Mentor Distribution"
               chartLabels={["Mathematics", "Physics", "Chemistry", "Biology"]}
-              chartData={[
-                { name: "2023", data: [70, 50, 68, 50] },
-                { name: "2022", data: [64, 60, 60, 46] },
-                { name: "2021", data: [65, 55, 55, 48] },
-                { name: "2020", data: [72, 58, 43, 29] },
-              ]}
+              chartData={[{ name: "Mentors", data: [66, 73, 75, 81] }]}
               chartColors={[...Array(6)].map(
                 () => theme.palette.text.secondary
               )}
