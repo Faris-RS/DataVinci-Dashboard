@@ -39,12 +39,12 @@ export default function Scorecard() {
               opacity: 0.2,
             }}
           ></div>
-          <span className="relative text-5xl font-bold text-white">50</span>
+          <span className="relative text-5xl font-bold text-white">10179</span>
         </div>
         <div className="relative text-white px-6 pb-6 mt-6">
           <span className="block opacity-75 -mb-1"></span>
           <div className="flex justify-between">
-            <span className="block font-semibold text-xl">Sales</span>
+            <span className="block font-semibold text-xl">Students</span>
             <span className="block bg-transparent rounded-full text-orange-500 text-xs font-bold px-3 py-2 leading-none flex items-center"></span>
           </div>
         </div>
@@ -84,12 +84,12 @@ export default function Scorecard() {
               opacity: 0.2,
             }}
           ></div>
-          <span className="relative text-5xl font-bold text-white">10</span>
+          <span className="relative text-5xl font-bold text-white">3099</span>
         </div>
         <div className="relative text-white px-6 pb-6 mt-6">
           <span className="block opacity-75 -mb-1"></span>
           <div className="flex justify-between">
-            <span className="block font-semibold text-xl">Products</span>
+            <span className="block font-semibold text-xl">Mentors</span>
             <span className="block bg-transparent rounded-full text-teal-500 text-xs font-bold px-3 py-2 leading-none flex items-center"></span>
           </div>
         </div>
@@ -129,12 +129,12 @@ export default function Scorecard() {
               opacity: 0.2,
             }}
           ></div>
-          <span className="relative text-5xl font-bold text-white">3</span>
+          <span className="relative text-5xl font-bold text-white">4</span>
         </div>
         <div className="relative text-white px-6 pb-6 mt-6">
           <span className="block opacity-75 -mb-1"></span>
           <div className="flex justify-between">
-            <span className="block font-semibold text-xl">Blocked</span>
+            <span className="block font-semibold text-xl">Subjects</span>
             <span className="block bg-transparent rounded-full text-teal-500 text-xs font-bold px-3 py-2 leading-none flex items-center"></span>
           </div>
         </div>
@@ -175,12 +175,12 @@ export default function Scorecard() {
               opacity: 0.2,
             }}
           ></div>
-          <span className="relative text-5xl font-bold text-white">20</span>
+          <span className="relative text-5xl font-bold text-white">504</span>
         </div>
         <div className="relative text-white px-6 pb-6 mt-6">
           <span className="block opacity-75 -mb-1"></span>
           <div className="flex justify-between">
-            <span className="block font-semibold text-xl">Users</span>
+            <span className="block font-semibold text-xl">Blocked</span>
             <span className="block bg-transparent rounded-full text-purple-500 text-xs font-bold px-3 py-2 leading-none flex items-center"></span>
           </div>
         </div>
